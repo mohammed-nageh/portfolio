@@ -43,7 +43,7 @@ const projects = [
       'Developed an e-commerce website for selling clothing and electronic appliances',
     stack: ['React' , "React Router" , "swiper" , "formik" , "toast"],
     sourceCode: 'https://github.com/mohammed-nageh/frech_cart',
-    livePreview: 'https://frech-cart.netlify.app/auth/login',
+    livePreview: 'https://frech-cart-ten.vercel.app/auth/login',
   },
   {
     name: 'Movies-App',
