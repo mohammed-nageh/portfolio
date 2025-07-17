@@ -1,0 +1,48 @@
+.skills__list {
+  max-width: 450px;
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skills__list-item {
+  margin: 0.5em;
+}
+
+
+.responsive-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  padding: 2rem;
+}
+
+.lottie-box {
+  width: 400px;
+  max-width: 100%;
+  height: auto;
+}
+
+.text-box {
+  max-width: 500px;
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .responsive-section {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .lottie-box {
+    width: 100%;
+  }
+
+  .text-box {
+    width: 100%;
+  }
+}
