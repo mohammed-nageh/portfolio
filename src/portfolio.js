@@ -42,8 +42,8 @@ const projects = [
     description:
       'Developed an e-commerce website for selling clothing and electronic appliances',
     stack: ['React' , "React Router" , "swiper" , "formik" , "toast"],
-    sourceCode: 'https://github.com/mohammed-nageh/frech_cart',
-    livePreview: 'https://vercel.com/e-commerces-projects-4ca01a39/frech-cart',
+    sourceCode: 'https://github.com/mohammed-nageh/final-project',
+    livePreview: 'https://vercel.com/e-commerces-projects-4ca01a39/final-project',
   },
   {
     name: 'Movies-App',
